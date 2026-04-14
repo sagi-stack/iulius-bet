@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-04-09T19:00:00+00:00",
+    "home": "FC Porto",
+    "away": "Nottingham Forest",
+    "home_id": 212,
+    "away_id": 65,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2025-10-23T19:00:00+00:00",
+    "home": "Nottingham Forest",
+    "away": "FC Porto",
+    "home_id": 65,
+    "away_id": 212,
+    "home_score": 2,
+    "away_score": 0
+  }
+]

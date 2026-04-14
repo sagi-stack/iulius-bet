@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Lautaro Martínez",
+    "team": "Inter",
+    "team_id": 505,
+    "goals": 16,
+    "assists": 4,
+    "played": 26
+  },
+  {
+    "name": "N. Paz",
+    "team": "Como",
+    "team_id": 895,
+    "goals": 11,
+    "assists": 6,
+    "played": 31
+  },
+  {
+    "name": "T. Douvikas",
+    "team": "Como",
+    "team_id": 895,
+    "goals": 11,
+    "assists": 1,
+    "played": 32
+  },
+  {
+    "name": "M. Thuram",
+    "team": "Inter",
+    "team_id": 505,
+    "goals": 10,
+    "assists": 5,
+    "played": 25
+  },
+  {
+    "name": "K. Yıldız",
+    "team": "Juventus",
+    "team_id": 496,
+    "goals": 10,
+    "assists": 6,
+    "played": 31
+  },
+  {
+    "name": "R. Højlund",
+    "team": "Napoli",
+    "team_id": 492,
+    "goals": 10,
+    "assists": 3,
+    "played": 27
+  },
+  {
+    "name": "D. Malen",
+    "team": "AS Roma",
+    "team_id": 497,
+    "goals": 10,
+    "assists": 0,
+    "played": 12
+  },
+  {
+    "name": "K. Davis",
+    "team": "Udinese",
+    "team_id": 494,
+    "goals": 10,
+    "assists": 3,
+    "played": 27
+  },
+  {
+    "name": "N. Krstović",
+    "team": "Atalanta",
+    "team_id": 499,
+    "goals": 9,
+    "assists": 4,
+    "played": 28
+  },
+  {
+    "name": "G. Simeone",
+    "team": "Torino",
+    "team_id": 503,
+    "goals": 9,
+    "assists": 0,
+    "played": 26
+  },
+  {
+    "name": "Rafael Leão",
+    "team": "AC Milan",
+    "team_id": 489,
+    "goals": 9,
+    "assists": 2,
+    "played": 24
+  },
+  {
+    "name": "H. Çalhanoğlu",
+    "team": "Inter",
+    "team_id": 505,
+    "goals": 9,
+    "assists": 4,
+    "played": 21
+  },
+  {
+    "name": "A. Pinamonti",
+    "team": "Sassuolo",
+    "team_id": 488,
+    "goals": 8,
+    "assists": 3,
+    "played": 30
+  },
+  {
+    "name": "S. McTominay",
+    "team": "Napoli",
+    "team_id": 492,
+    "goals": 8,
+    "assists": 3,
+    "played": 27
+  },
+  {
+    "name": "C. Pulišić",
+    "team": "AC Milan",
+    "team_id": 489,
+    "goals": 8,
+    "assists": 3,
+    "played": 25
+  },
+  {
+    "name": "Mateo Pellegrino",
+    "team": "Parma",
+    "team_id": 523,
+    "goals": 8,
+    "assists": 1,
+    "played": 31
+  },
+  {
+    "name": "M. Kean",
+    "team": "Fiorentina",
+    "team_id": 502,
+    "goals": 8,
+    "assists": 1,
+    "played": 26
+  },
+  {
+    "name": "G. Scamacca",
+    "team": "Atalanta",
+    "team_id": 499,
+    "goals": 8,
+    "assists": 1,
+    "played": 21
+  },
+  {
+    "name": "R. Orsolini",
+    "team": "Bologna",
+    "team_id": 500,
+    "goals": 8,
+    "assists": 1,
+    "played": 30
+  },
+  {
+    "name": "S. Castro",
+    "team": "Bologna",
+    "team_id": 500,
+    "goals": 7,
+    "assists": 2,
+    "played": 29
+  }
+]

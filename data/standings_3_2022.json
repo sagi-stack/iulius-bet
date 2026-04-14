@@ -1,0 +1,54 @@
+[
+  {
+    "position": 1,
+    "team_id": 42,
+    "team": "Arsenal",
+    "points": 15,
+    "won": 5,
+    "draw": 0,
+    "lost": 1,
+    "gf": 8,
+    "ga": 3,
+    "gd": 5,
+    "form": "WLWWW"
+  },
+  {
+    "position": 2,
+    "team_id": 197,
+    "team": "PSV Eindhoven",
+    "points": 13,
+    "won": 4,
+    "draw": 1,
+    "lost": 1,
+    "gf": 15,
+    "ga": 4,
+    "gd": 11,
+    "form": "WWLWW"
+  },
+  {
+    "position": 3,
+    "team_id": 327,
+    "team": "Bodo/Glimt",
+    "points": 4,
+    "won": 1,
+    "draw": 1,
+    "lost": 4,
+    "gf": 5,
+    "ga": 10,
+    "gd": -5,
+    "form": "LLLLW"
+  },
+  {
+    "position": 4,
+    "team_id": 783,
+    "team": "FC Zurich",
+    "points": 3,
+    "won": 1,
+    "draw": 0,
+    "lost": 5,
+    "gf": 5,
+    "ga": 16,
+    "gd": -11,
+    "form": "LWLLL"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "position": 1,
+    "team_id": 492,
+    "team": "Napoli",
+    "points": 15,
+    "won": 5,
+    "draw": 0,
+    "lost": 1,
+    "gf": 20,
+    "ga": 6,
+    "gd": 14,
+    "form": "LWWWW"
+  },
+  {
+    "position": 2,
+    "team_id": 40,
+    "team": "Liverpool",
+    "points": 15,
+    "won": 5,
+    "draw": 0,
+    "lost": 1,
+    "gf": 17,
+    "ga": 6,
+    "gd": 11,
+    "form": "WWWWW"
+  },
+  {
+    "position": 3,
+    "team_id": 194,
+    "team": "Ajax",
+    "points": 6,
+    "won": 2,
+    "draw": 0,
+    "lost": 4,
+    "gf": 11,
+    "ga": 16,
+    "gd": -5,
+    "form": "WLLLL"
+  },
+  {
+    "position": 4,
+    "team_id": 257,
+    "team": "Rangers",
+    "points": 0,
+    "won": 0,
+    "draw": 0,
+    "lost": 6,
+    "gf": 2,
+    "ga": 22,
+    "gd": -20,
+    "form": "LLLLL"
+  }
+]

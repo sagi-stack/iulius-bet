@@ -1,0 +1,54 @@
+[
+  {
+    "position": 1,
+    "team_id": 157,
+    "team": "Bayern Munich",
+    "points": 16,
+    "won": 5,
+    "draw": 1,
+    "lost": 0,
+    "gf": 12,
+    "ga": 6,
+    "gd": 6,
+    "form": "WDWWW"
+  },
+  {
+    "position": 2,
+    "team_id": 400,
+    "team": "FC Copenhagen",
+    "points": 8,
+    "won": 2,
+    "draw": 2,
+    "lost": 2,
+    "gf": 8,
+    "ga": 8,
+    "gd": 0,
+    "form": "WDWLL"
+  },
+  {
+    "position": 3,
+    "team_id": 645,
+    "team": "Galatasaray",
+    "points": 5,
+    "won": 1,
+    "draw": 2,
+    "lost": 3,
+    "gf": 10,
+    "ga": 13,
+    "gd": -3,
+    "form": "LDLLW"
+  },
+  {
+    "position": 4,
+    "team_id": 33,
+    "team": "Manchester United",
+    "points": 4,
+    "won": 1,
+    "draw": 1,
+    "lost": 4,
+    "gf": 12,
+    "ga": 15,
+    "gd": -3,
+    "form": "LDLWL"
+  }
+]

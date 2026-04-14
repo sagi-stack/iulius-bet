@@ -1,0 +1,155 @@
+[
+  {
+    "date": "2025-11-02T14:00:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2025-02-02T16:15:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2024-08-25T15:00:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2024-03-31T15:05:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2023-10-29T16:05:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-02-01T20:00:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2022-10-01T15:00:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2022-04-20T19:00:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2021-10-24T13:00:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2021-03-14T14:00:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2020-11-27T20:00:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2020-04-26T18:00:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "2019-08-25T15:00:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2019-05-18T19:00:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2018-12-02T16:00:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2018-05-06T15:00:00+00:00",
+    "home": "Rennes",
+    "away": "Strasbourg",
+    "home_id": 94,
+    "away_id": 95,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2017-11-18T19:00:00+00:00",
+    "home": "Strasbourg",
+    "away": "Rennes",
+    "home_id": 95,
+    "away_id": 94,
+    "home_score": 2,
+    "away_score": 1
+  }
+]

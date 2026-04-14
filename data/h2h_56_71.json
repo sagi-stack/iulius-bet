@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2025-10-18T14:00:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2025-03-14T20:00:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2024-11-09T15:00:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2024-04-20T14:00:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-12-03T13:30:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2023-08-29T18:45:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2023-02-11T15:00:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2022-09-14T18:45:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "date": "2021-01-20T18:00:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2020-10-31T12:30:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2019-02-23T15:00:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "date": "2018-12-15T17:30:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2018-01-13T15:00:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2017-09-23T14:00:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2017-03-07T19:45:00+00:00",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2016-08-16T18:45:00+00:00",
+    "home": "Norwich",
+    "away": "Bristol City",
+    "home_id": 71,
+    "away_id": 56,
+    "home_score": 1,
+    "away_score": 0
+  }
+]

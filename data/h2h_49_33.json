@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-09-20T16:30:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2025-05-16T19:15:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2024-11-03T16:30:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2024-04-04T19:15:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 4,
+    "away_score": 3
+  },
+  {
+    "date": "2023-12-06T20:15:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2023-05-25T19:00:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2022-10-22T16:30:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2022-04-28T18:45:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2021-11-28T16:30:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2021-02-28T16:30:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2020-10-24T16:30:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2020-07-19T17:00:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2020-02-17T20:00:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2019-10-30T20:05:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2019-08-11T15:30:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2019-04-28T15:30:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2019-02-18T19:30:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2018-10-20T11:30:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2018-05-19T16:15:00+00:00",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "home_id": 49,
+    "away_id": 33,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2018-02-25T14:05:00+00:00",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "home_id": 33,
+    "away_id": 49,
+    "home_score": 2,
+    "away_score": 1
+  }
+]

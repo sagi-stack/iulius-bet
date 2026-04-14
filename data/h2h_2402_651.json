@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2026-01-25T17:15:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Gyori ETO FC",
+    "home_id": 651,
+    "away_id": 2402,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2025-09-28T16:00:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2025-05-24T18:00:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2025-03-02T17:00:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Gyori ETO FC",
+    "home_id": 651,
+    "away_id": 2402,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2025-02-27T19:00:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 3,
+    "away_score": 4
+  },
+  {
+    "date": "2024-10-27T16:45:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2022-04-20T18:00:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2015-03-07T13:00:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Gyori ETO FC",
+    "home_id": 651,
+    "away_id": 2402,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2014-08-17T14:30:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2014-03-02T15:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Gyori ETO FC",
+    "home_id": 651,
+    "away_id": 2402,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2013-08-10T19:00:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2013-05-12T16:30:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2012-10-28T17:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Gyori ETO FC",
+    "home_id": 651,
+    "away_id": 2402,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2012-04-14T15:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Gyori ETO FC",
+    "home_id": 651,
+    "away_id": 2402,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2011-09-18T16:00:00+00:00",
+    "home": "Gyori ETO FC",
+    "away": "Ferencvarosi TC",
+    "home_id": 2402,
+    "away_id": 651,
+    "home_score": 2,
+    "away_score": 0
+  }
+]

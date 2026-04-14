@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2026-04-07T19:00:00+00:00",
+    "home": "Sporting CP",
+    "away": "Arsenal",
+    "home_id": 228,
+    "away_id": 42,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2024-11-26T20:00:00+00:00",
+    "home": "Sporting CP",
+    "away": "Arsenal",
+    "home_id": 228,
+    "away_id": 42,
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "date": "2023-03-16T20:00:00+00:00",
+    "home": "Arsenal",
+    "away": "Sporting CP",
+    "home_id": 42,
+    "away_id": 228,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-03-09T17:45:00+00:00",
+    "home": "Sporting CP",
+    "away": "Arsenal",
+    "home_id": 228,
+    "away_id": 42,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2018-11-08T20:00:00+00:00",
+    "home": "Arsenal",
+    "away": "Sporting CP",
+    "home_id": 42,
+    "away_id": 228,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2018-10-25T16:55:00+00:00",
+    "home": "Sporting CP",
+    "away": "Arsenal",
+    "home_id": 228,
+    "away_id": 42,
+    "home_score": 0,
+    "away_score": 1
+  }
+]

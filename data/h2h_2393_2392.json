@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-01-25T12:00:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "date": "2025-09-27T15:30:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2025-04-05T17:30:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2024-11-30T15:30:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2024-08-17T15:00:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2024-04-20T17:30:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 5,
+    "away_score": 3
+  },
+  {
+    "date": "2024-02-03T16:30:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2023-09-23T15:00:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2022-07-20T00:00:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "2021-07-24T00:00:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "2020-06-21T19:05:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2020-02-08T16:00:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2019-10-19T15:00:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2019-03-16T18:30:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2018-11-10T13:30:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2018-08-04T16:00:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2018-05-12T15:00:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2017-12-09T15:00:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "date": "2017-09-09T16:00:00+00:00",
+    "home": "Debreceni VSC",
+    "away": "Diosgyori VTK",
+    "home_id": 2392,
+    "away_id": 2393,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2017-05-27T17:00:00+00:00",
+    "home": "Diosgyori VTK",
+    "away": "Debreceni VSC",
+    "home_id": 2393,
+    "away_id": 2392,
+    "home_score": 1,
+    "away_score": 3
+  }
+]

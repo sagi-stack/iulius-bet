@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-01-03T19:45:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2025-05-12T18:45:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2024-12-02T19:45:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2024-05-12T18:45:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2024-01-07T19:45:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-04-24T18:45:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2022-09-18T16:00:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2022-03-05T17:00:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2021-12-18T14:00:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2021-04-22T16:30:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2020-12-20T17:00:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2020-02-15T19:45:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2019-09-25T17:00:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2019-01-27T14:00:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "date": "2018-08-27T18:30:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "date": "2018-01-06T17:00:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2017-08-20T16:00:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2017-04-15T13:00:00+00:00",
+    "home": "AS Roma",
+    "away": "Atalanta",
+    "home_id": 497,
+    "away_id": 499,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2016-11-20T14:00:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2016-04-17T10:30:00+00:00",
+    "home": "Atalanta",
+    "away": "AS Roma",
+    "home_id": 499,
+    "away_id": 497,
+    "home_score": 3,
+    "away_score": 3
+  }
+]

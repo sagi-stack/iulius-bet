@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-01-04T11:30:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2025-02-15T17:00:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2024-12-08T19:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2024-12-05T20:00:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2024-01-28T17:00:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2023-09-02T18:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2023-03-03T19:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2022-09-03T18:45:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2022-02-27T19:50:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2021-11-28T19:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2021-04-22T18:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "date": "2020-12-20T19:45:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2020-08-01T18:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2020-01-21T19:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2020-01-11T17:00:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2019-01-20T19:30:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2018-08-18T18:30:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2018-02-10T19:45:00+00:00",
+    "home": "Napoli",
+    "away": "Lazio",
+    "home_id": 492,
+    "away_id": 487,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2017-09-20T18:45:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2017-04-09T18:45:00+00:00",
+    "home": "Lazio",
+    "away": "Napoli",
+    "home_id": 487,
+    "away_id": 492,
+    "home_score": 0,
+    "away_score": 3
+  }
+]

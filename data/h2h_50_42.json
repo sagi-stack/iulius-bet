@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-03-22T16:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2025-09-21T15:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2025-02-02T16:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "date": "2024-09-22T15:30:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2024-03-31T15:30:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2023-10-08T15:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2023-08-06T15:00:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-04-26T19:00:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2023-02-15T19:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2023-01-27T20:00:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2022-01-01T12:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2021-08-28T11:30:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "date": "2021-02-21T16:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2020-12-22T20:00:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2020-10-17T16:30:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2020-07-18T18:45:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2020-06-17T19:15:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2019-12-15T16:30:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "date": "2019-02-03T16:30:00+00:00",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "home_id": 50,
+    "away_id": 42,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2018-08-12T15:00:00+00:00",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "home_id": 42,
+    "away_id": 50,
+    "home_score": 0,
+    "away_score": 2
+  }
+]

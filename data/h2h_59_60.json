@@ -1,0 +1,119 @@
+[
+  {
+    "date": "2025-10-18T14:00:00+00:00",
+    "home": "West Brom",
+    "away": "Preston",
+    "home_id": 60,
+    "away_id": 59,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2025-01-01T15:00:00+00:00",
+    "home": "West Brom",
+    "away": "Preston",
+    "home_id": 60,
+    "away_id": 59,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2024-11-30T15:00:00+00:00",
+    "home": "Preston",
+    "away": "West Brom",
+    "home_id": 59,
+    "away_id": 60,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2024-05-04T11:30:00+00:00",
+    "home": "West Brom",
+    "away": "Preston",
+    "home_id": 60,
+    "away_id": 59,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2023-09-30T14:00:00+00:00",
+    "home": "Preston",
+    "away": "West Brom",
+    "home_id": 59,
+    "away_id": 60,
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "date": "2022-12-29T20:00:00+00:00",
+    "home": "West Brom",
+    "away": "Preston",
+    "home_id": 60,
+    "away_id": 59,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2022-10-05T19:00:00+00:00",
+    "home": "Preston",
+    "away": "West Brom",
+    "home_id": 59,
+    "away_id": 60,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2022-01-26T20:00:00+00:00",
+    "home": "West Brom",
+    "away": "Preston",
+    "home_id": 60,
+    "away_id": 59,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2021-09-18T14:00:00+00:00",
+    "home": "Preston",
+    "away": "West Brom",
+    "home_id": 59,
+    "away_id": 60,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2020-02-25T20:00:00+00:00",
+    "home": "West Brom",
+    "away": "Preston",
+    "home_id": 60,
+    "away_id": 59,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2019-12-02T19:45:00+00:00",
+    "home": "Preston",
+    "away": "West Brom",
+    "home_id": 59,
+    "away_id": 60,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2019-04-13T14:00:00+00:00",
+    "home": "West Brom",
+    "away": "Preston",
+    "home_id": 60,
+    "away_id": 59,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2018-09-29T14:00:00+00:00",
+    "home": "Preston",
+    "away": "West Brom",
+    "home_id": 59,
+    "away_id": 60,
+    "home_score": 2,
+    "away_score": 3
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Z. Vipotnik",
+    "team": "Swansea",
+    "team_id": 76,
+    "goals": 21,
+    "assists": 2,
+    "played": 40
+  },
+  {
+    "name": "H. Wright",
+    "team": "Coventry",
+    "team_id": 1346,
+    "goals": 16,
+    "assists": 1,
+    "played": 36
+  },
+  {
+    "name": "O. McBurnie",
+    "team": "Hull City",
+    "team_id": 64,
+    "goals": 14,
+    "assists": 7,
+    "played": 33
+  },
+  {
+    "name": "J. Clarke",
+    "team": "Ipswich",
+    "team_id": 57,
+    "goals": 14,
+    "assists": 1,
+    "played": 39
+  },
+  {
+    "name": "J. Gelhardt",
+    "team": "Hull City",
+    "team_id": 64,
+    "goals": 13,
+    "assists": 4,
+    "played": 35
+  },
+  {
+    "name": "B. Thomas-Asante",
+    "team": "Coventry",
+    "team_id": 1346,
+    "goals": 12,
+    "assists": 4,
+    "played": 28
+  },
+  {
+    "name": "J. Windass",
+    "team": "Wrexham",
+    "team_id": 1837,
+    "goals": 12,
+    "assists": 5,
+    "played": 37
+  },
+  {
+    "name": "C. Morris",
+    "team": "Derby",
+    "team_id": 69,
+    "goals": 12,
+    "assists": 1,
+    "played": 27
+  },
+  {
+    "name": "S. Twine",
+    "team": "Bristol City",
+    "team_id": 56,
+    "goals": 11,
+    "assists": 6,
+    "played": 41
+  },
+  {
+    "name": "M. Whittaker",
+    "team": "Middlesbrough",
+    "team_id": 70,
+    "goals": 11,
+    "assists": 6,
+    "played": 36
+  },
+  {
+    "name": "K. Moore",
+    "team": "Wrexham",
+    "team_id": 1837,
+    "goals": 11,
+    "assists": 4,
+    "played": 35
+  },
+  {
+    "name": "A. Armstrong",
+    "team": "Southampton",
+    "team_id": 41,
+    "goals": 11,
+    "assists": 4,
+    "played": 29
+  },
+  {
+    "name": "S. Thomas",
+    "team": "Stoke City",
+    "team_id": 75,
+    "goals": 10,
+    "assists": 10,
+    "played": 41
+  },
+  {
+    "name": "F. Azaz",
+    "team": "Southampton",
+    "team_id": 41,
+    "goals": 10,
+    "assists": 7,
+    "played": 37
+  },
+  {
+    "name": "J. James",
+    "team": "Leicester",
+    "team_id": 46,
+    "goals": 10,
+    "assists": 4,
+    "played": 30
+  },
+  {
+    "name": "P. Agyemang",
+    "team": "Derby",
+    "team_id": 69,
+    "goals": 10,
+    "assists": 3,
+    "played": 37
+  },
+  {
+    "name": "R. Burrell",
+    "team": "QPR",
+    "team_id": 72,
+    "goals": 10,
+    "assists": 3,
+    "played": 27
+  },
+  {
+    "name": "E. Simms",
+    "team": "Coventry",
+    "team_id": 1346,
+    "goals": 10,
+    "assists": 2,
+    "played": 39
+  },
+  {
+    "name": "M. Ducksch",
+    "team": "Birmingham",
+    "team_id": 54,
+    "goals": 10,
+    "assists": 1,
+    "played": 32
+  },
+  {
+    "name": "J. Makama",
+    "team": "Norwich",
+    "team_id": 71,
+    "goals": 10,
+    "assists": 0,
+    "played": 28
+  }
+]

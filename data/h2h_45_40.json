@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-09-20T11:30:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2025-04-02T19:00:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2025-02-12T19:30:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2024-04-24T19:00:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2023-10-21T11:30:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2023-02-13T20:00:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2022-09-03T11:30:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2022-04-24T15:30:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2021-12-01T20:15:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2021-02-20T17:30:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2020-10-17T11:30:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2020-06-21T18:00:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2020-01-05T16:01:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2019-12-04T20:15:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "date": "2019-03-03T16:15:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2018-12-02T16:15:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2018-04-07T11:30:00+00:00",
+    "home": "Everton",
+    "away": "Liverpool",
+    "home_id": 45,
+    "away_id": 40,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2018-01-05T19:55:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2017-12-10T14:15:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2017-04-01T11:30:00+00:00",
+    "home": "Liverpool",
+    "away": "Everton",
+    "home_id": 40,
+    "away_id": 45,
+    "home_score": 3,
+    "away_score": 1
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-12-28T11:30:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2025-02-15T19:45:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2024-12-20T19:45:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2024-03-17T14:00:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2023-09-23T13:00:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2023-06-04T19:00:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2022-10-16T18:45:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2022-05-08T18:45:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2021-10-16T18:45:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "date": "2021-03-07T14:00:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2020-11-08T19:45:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2020-02-02T14:00:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2019-09-15T18:45:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2018-05-05T16:00:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2017-12-17T11:30:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2017-12-13T19:45:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2016-04-25T15:00:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2015-12-13T14:00:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2015-03-07T19:45:00+00:00",
+    "home": "AC Milan",
+    "away": "Hellas Verona",
+    "home_id": 489,
+    "away_id": 504,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2014-10-19T13:00:00+00:00",
+    "home": "Hellas Verona",
+    "away": "AC Milan",
+    "home_id": 504,
+    "away_id": 489,
+    "home_score": 1,
+    "away_score": 3
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-01-24T11:30:00+00:00",
+    "home": "Nyiregyhaza",
+    "away": "Ujpest",
+    "home_id": 2403,
+    "away_id": 2255,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2025-09-26T18:00:00+00:00",
+    "home": "Ujpest",
+    "away": "Nyiregyhaza",
+    "home_id": 2255,
+    "away_id": 2403,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2025-05-16T18:30:00+00:00",
+    "home": "Ujpest",
+    "away": "Nyiregyhaza",
+    "home_id": 2255,
+    "away_id": 2403,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2025-02-22T18:30:00+00:00",
+    "home": "Nyiregyhaza",
+    "away": "Ujpest",
+    "home_id": 2403,
+    "away_id": 2255,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2024-10-19T17:30:00+00:00",
+    "home": "Ujpest",
+    "away": "Nyiregyhaza",
+    "home_id": 2255,
+    "away_id": 2403,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2015-05-08T17:00:00+00:00",
+    "home": "Nyiregyhaza",
+    "away": "Ujpest",
+    "home_id": 2403,
+    "away_id": 2255,
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "date": "2014-10-24T17:00:00+00:00",
+    "home": "Ujpest",
+    "away": "Nyiregyhaza",
+    "home_id": 2255,
+    "away_id": 2403,
+    "home_score": 3,
+    "away_score": 2
+  }
+]

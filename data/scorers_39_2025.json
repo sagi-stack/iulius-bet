@@ -1,0 +1,162 @@
+[
+  {
+    "name": "E. Haaland",
+    "team": "Manchester City",
+    "team_id": 50,
+    "goals": 22,
+    "assists": 7,
+    "played": 30
+  },
+  {
+    "name": "Thiago",
+    "team": "Brentford",
+    "team_id": 55,
+    "goals": 21,
+    "assists": 1,
+    "played": 32
+  },
+  {
+    "name": "João Pedro",
+    "team": "Chelsea",
+    "team_id": 49,
+    "goals": 14,
+    "assists": 5,
+    "played": 32
+  },
+  {
+    "name": "D. Welbeck",
+    "team": "Brighton",
+    "team_id": 51,
+    "goals": 12,
+    "assists": 0,
+    "played": 31
+  },
+  {
+    "name": "V. Gyökeres",
+    "team": "Arsenal",
+    "team_id": 42,
+    "goals": 12,
+    "assists": 0,
+    "played": 30
+  },
+  {
+    "name": "H. Ekitike",
+    "team": "Liverpool",
+    "team_id": 40,
+    "goals": 11,
+    "assists": 4,
+    "played": 28
+  },
+  {
+    "name": "H. Wilson",
+    "team": "Fulham",
+    "team_id": 36,
+    "goals": 10,
+    "assists": 6,
+    "played": 30
+  },
+  {
+    "name": "A. Semenyo",
+    "team": "Bournemouth",
+    "team_id": 35,
+    "goals": 10,
+    "assists": 3,
+    "played": 20
+  },
+  {
+    "name": "E. Kroupi",
+    "team": "Bournemouth",
+    "team_id": 35,
+    "goals": 10,
+    "assists": 0,
+    "played": 27
+  },
+  {
+    "name": "D. Calvert-Lewin",
+    "team": "Leeds",
+    "team_id": 63,
+    "goals": 10,
+    "assists": 1,
+    "played": 28
+  },
+  {
+    "name": "J. Mateta",
+    "team": "Crystal Palace",
+    "team_id": 52,
+    "goals": 10,
+    "assists": 0,
+    "played": 25
+  },
+  {
+    "name": "Richarlison",
+    "team": "Tottenham",
+    "team_id": 47,
+    "goals": 9,
+    "assists": 3,
+    "played": 27
+  },
+  {
+    "name": "B. Mbeumo",
+    "team": "Manchester United",
+    "team_id": 33,
+    "goals": 9,
+    "assists": 3,
+    "played": 26
+  },
+  {
+    "name": "O. Watkins",
+    "team": "Aston Villa",
+    "team_id": 66,
+    "goals": 9,
+    "assists": 1,
+    "played": 31
+  },
+  {
+    "name": "B. Šeško",
+    "team": "Manchester United",
+    "team_id": 33,
+    "goals": 9,
+    "assists": 1,
+    "played": 26
+  },
+  {
+    "name": "M. Gibbs-White",
+    "team": "Nottingham Forest",
+    "team_id": 65,
+    "goals": 9,
+    "assists": 2,
+    "played": 32
+  },
+  {
+    "name": "Bruno Guimarães",
+    "team": "Newcastle",
+    "team_id": 34,
+    "goals": 9,
+    "assists": 4,
+    "played": 23
+  },
+  {
+    "name": "R. Jiménez",
+    "team": "Fulham",
+    "team_id": 36,
+    "goals": 9,
+    "assists": 3,
+    "played": 31
+  },
+  {
+    "name": "C. Palmer",
+    "team": "Chelsea",
+    "team_id": 49,
+    "goals": 9,
+    "assists": 1,
+    "played": 21
+  },
+  {
+    "name": "M. Rogers",
+    "team": "Aston Villa",
+    "team_id": 66,
+    "goals": 8,
+    "assists": 5,
+    "played": 32
+  }
+]

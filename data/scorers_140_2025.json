@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Kylian Mbappé",
+    "team": "Real Madrid",
+    "team_id": 541,
+    "goals": 23,
+    "assists": 4,
+    "played": 26
+  },
+  {
+    "name": "V. Muriqi",
+    "team": "Mallorca",
+    "team_id": 798,
+    "goals": 21,
+    "assists": 1,
+    "played": 30
+  },
+  {
+    "name": "A. Budimir",
+    "team": "Osasuna",
+    "team_id": 727,
+    "goals": 16,
+    "assists": 0,
+    "played": 30
+  },
+  {
+    "name": "Lamine Yamal",
+    "team": "Barcelona",
+    "team_id": 529,
+    "goals": 15,
+    "assists": 11,
+    "played": 27
+  },
+  {
+    "name": "Ferran Torres",
+    "team": "Barcelona",
+    "team_id": 529,
+    "goals": 14,
+    "assists": 1,
+    "played": 28
+  },
+  {
+    "name": "R. Lewandowski",
+    "team": "Barcelona",
+    "team_id": 529,
+    "goals": 12,
+    "assists": 1,
+    "played": 25
+  },
+  {
+    "name": "Mikel Oyarzabal",
+    "team": "Real Sociedad",
+    "team_id": 548,
+    "goals": 12,
+    "assists": 3,
+    "played": 27
+  },
+  {
+    "name": "Raphinha",
+    "team": "Barcelona",
+    "team_id": 529,
+    "goals": 11,
+    "assists": 3,
+    "played": 20
+  },
+  {
+    "name": "Borja Iglesias",
+    "team": "Celta Vigo",
+    "team_id": 538,
+    "goals": 11,
+    "assists": 2,
+    "played": 28
+  },
+  {
+    "name": "L. Boyé",
+    "team": "Alaves",
+    "team_id": 542,
+    "goals": 11,
+    "assists": 1,
+    "played": 25
+  },
+  {
+    "name": "Vinícius Júnior",
+    "team": "Real Madrid",
+    "team_id": 541,
+    "goals": 11,
+    "assists": 5,
+    "played": 30
+  },
+  {
+    "name": "A. Sørloth",
+    "team": "Atletico Madrid",
+    "team_id": 530,
+    "goals": 10,
+    "assists": 0,
+    "played": 30
+  },
+  {
+    "name": "Jorge de Frutos",
+    "team": "Rayo Vallecano",
+    "team_id": 728,
+    "goals": 10,
+    "assists": 1,
+    "played": 29
+  },
+  {
+    "name": "G. Mikautadze",
+    "team": "Villarreal",
+    "team_id": 533,
+    "goals": 9,
+    "assists": 5,
+    "played": 26
+  },
+  {
+    "name": "Alberto Moleiro",
+    "team": "Villarreal",
+    "team_id": 533,
+    "goals": 9,
+    "assists": 4,
+    "played": 30
+  },
+  {
+    "name": "Hugo Duro",
+    "team": "Valencia",
+    "team_id": 532,
+    "goals": 9,
+    "assists": 0,
+    "played": 30
+  },
+  {
+    "name": "F. Viñas",
+    "team": "Oviedo",
+    "team_id": 718,
+    "goals": 9,
+    "assists": 1,
+    "played": 27
+  },
+  {
+    "name": "V. Vanat",
+    "team": "Girona",
+    "team_id": 547,
+    "goals": 9,
+    "assists": 1,
+    "played": 27
+  },
+  {
+    "name": "Gonçalo Guedes",
+    "team": "Real Sociedad",
+    "team_id": 548,
+    "goals": 8,
+    "assists": 4,
+    "played": 31
+  },
+  {
+    "name": "Toni Martínez",
+    "team": "Alaves",
+    "team_id": 542,
+    "goals": 8,
+    "assists": 3,
+    "played": 30
+  }
+]

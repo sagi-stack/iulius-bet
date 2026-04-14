@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2025-10-18T14:00:00+00:00",
+    "home": "Sheffield Utd",
+    "away": "Watford",
+    "home_id": 62,
+    "away_id": 38,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2025-01-04T15:00:00+00:00",
+    "home": "Watford",
+    "away": "Sheffield Utd",
+    "home_id": 38,
+    "away_id": 62,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2024-09-01T14:00:00+00:00",
+    "home": "Sheffield Utd",
+    "away": "Watford",
+    "home_id": 62,
+    "away_id": 38,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2023-02-25T15:00:00+00:00",
+    "home": "Sheffield Utd",
+    "away": "Watford",
+    "home_id": 62,
+    "away_id": 38,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2022-08-01T19:00:00+00:00",
+    "home": "Watford",
+    "away": "Sheffield Utd",
+    "home_id": 38,
+    "away_id": 62,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2019-12-26T15:00:00+00:00",
+    "home": "Sheffield Utd",
+    "away": "Watford",
+    "home_id": 62,
+    "away_id": 38,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2019-10-05T14:00:00+00:00",
+    "home": "Watford",
+    "away": "Sheffield Utd",
+    "home_id": 38,
+    "away_id": 62,
+    "home_score": 0,
+    "away_score": 0
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Kylian Mbappé",
+    "team": "Real Madrid",
+    "team_id": 541,
+    "goals": 14,
+    "assists": 1,
+    "played": 10
+  },
+  {
+    "name": "H. Kane",
+    "team": "Bayern München",
+    "team_id": 157,
+    "goals": 11,
+    "assists": 0,
+    "played": 10
+  },
+  {
+    "name": "A. Gordon",
+    "team": "Newcastle",
+    "team_id": 34,
+    "goals": 10,
+    "assists": 2,
+    "played": 12
+  },
+  {
+    "name": "J. Álvarez",
+    "team": "Atletico Madrid",
+    "team_id": 530,
+    "goals": 9,
+    "assists": 4,
+    "played": 12
+  },
+  {
+    "name": "K. Kvaratskhelia",
+    "team": "Paris Saint Germain",
+    "team_id": 85,
+    "goals": 8,
+    "assists": 4,
+    "played": 12
+  },
+  {
+    "name": "E. Haaland",
+    "team": "Manchester City",
+    "team_id": 50,
+    "goals": 8,
+    "assists": 0,
+    "played": 10
+  },
+  {
+    "name": "V. Osimhen",
+    "team": "Galatasaray",
+    "team_id": 645,
+    "goals": 7,
+    "assists": 2,
+    "played": 10
+  },
+  {
+    "name": "J. Hauge",
+    "team": "Bodo/Glimt",
+    "team_id": 327,
+    "goals": 6,
+    "assists": 5,
+    "played": 14
+  },
+  {
+    "name": "H. Barnes",
+    "team": "Newcastle",
+    "team_id": 34,
+    "goals": 6,
+    "assists": 4,
+    "played": 12
+  },
+  {
+    "name": "Fermín",
+    "team": "Barcelona",
+    "team_id": 529,
+    "goals": 6,
+    "assists": 4,
+    "played": 10
+  },
+  {
+    "name": "K. Høgh",
+    "team": "Bodo/Glimt",
+    "team_id": 327,
+    "goals": 6,
+    "assists": 3,
+    "played": 14
+  },
+  {
+    "name": "Gabriel Martinelli",
+    "team": "Arsenal",
+    "team_id": 42,
+    "goals": 6,
+    "assists": 2,
+    "played": 10
+  },
+  {
+    "name": "A. Sørloth",
+    "team": "Atletico Madrid",
+    "team_id": 530,
+    "goals": 6,
+    "assists": 1,
+    "played": 12
+  },
+  {
+    "name": "Vitinha",
+    "team": "Paris Saint Germain",
+    "team_id": 85,
+    "goals": 6,
+    "assists": 1,
+    "played": 13
+  },
+  {
+    "name": "B. Varga",
+    "team": "Ferencvarosi TC",
+    "team_id": 651,
+    "goals": 6,
+    "assists": 1,
+    "played": 6
+  },
+  {
+    "name": "M. Rashford",
+    "team": "Barcelona",
+    "team_id": 529,
+    "goals": 5,
+    "assists": 3,
+    "played": 10
+  },
+  {
+    "name": "L. Díaz",
+    "team": "Bayern München",
+    "team_id": 157,
+    "goals": 5,
+    "assists": 3,
+    "played": 9
+  },
+  {
+    "name": "D. Doué",
+    "team": "Paris Saint Germain",
+    "team_id": 85,
+    "goals": 5,
+    "assists": 2,
+    "played": 9
+  },
+  {
+    "name": "C. Durán",
+    "team": "Qarabag",
+    "team_id": 556,
+    "goals": 5,
+    "assists": 1,
+    "played": 10
+  },
+  {
+    "name": "F. Balogun",
+    "team": "Monaco",
+    "team_id": 91,
+    "goals": 5,
+    "assists": 0,
+    "played": 10
+  }
+]

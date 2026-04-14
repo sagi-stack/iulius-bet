@@ -1,0 +1,162 @@
+[
+  {
+    "name": "L. Messi",
+    "team": "Inter Miami",
+    "team_id": 9568,
+    "goals": 35,
+    "assists": 23,
+    "played": 31
+  },
+  {
+    "name": "D. Bouanga",
+    "team": "Los Angeles FC",
+    "team_id": 1616,
+    "goals": 26,
+    "assists": 8,
+    "played": 32
+  },
+  {
+    "name": "S. Surridge",
+    "team": "Nashville SC",
+    "team_id": 9569,
+    "goals": 25,
+    "assists": 3,
+    "played": 36
+  },
+  {
+    "name": "A. Dreyer",
+    "team": "San Diego",
+    "team_id": 25484,
+    "goals": 23,
+    "assists": 17,
+    "played": 37
+  },
+  {
+    "name": "T. Allende",
+    "team": "Inter Miami",
+    "team_id": 9568,
+    "goals": 20,
+    "assists": 2,
+    "played": 34
+  },
+  {
+    "name": "P. Musa",
+    "team": "FC Dallas",
+    "team_id": 1597,
+    "goals": 19,
+    "assists": 6,
+    "played": 31
+  },
+  {
+    "name": "H. Cuypers",
+    "team": "Chicago Fire",
+    "team_id": 1607,
+    "goals": 19,
+    "assists": 2,
+    "played": 35
+  },
+  {
+    "name": "A. Martínez",
+    "team": "New York City FC",
+    "team_id": 1604,
+    "goals": 19,
+    "assists": 1,
+    "played": 32
+  },
+  {
+    "name": "Evander",
+    "team": "FC Cincinnati",
+    "team_id": 2242,
+    "goals": 18,
+    "assists": 14,
+    "played": 34
+  },
+  {
+    "name": "T. Baribo",
+    "team": "Philadelphia Union",
+    "team_id": 1599,
+    "goals": 18,
+    "assists": 3,
+    "played": 31
+  },
+  {
+    "name": "B. White",
+    "team": "Vancouver Whitecaps",
+    "team_id": 1603,
+    "goals": 18,
+    "assists": 2,
+    "played": 22
+  },
+  {
+    "name": "D. Joveljić",
+    "team": "Sporting Kansas City",
+    "team_id": 1611,
+    "goals": 18,
+    "assists": 2,
+    "played": 32
+  },
+  {
+    "name": "H. Mukhtar",
+    "team": "Nashville SC",
+    "team_id": 9569,
+    "goals": 17,
+    "assists": 8,
+    "played": 36
+  },
+  {
+    "name": "E. Choupo-Moting",
+    "team": "New York Red Bulls",
+    "team_id": 1602,
+    "goals": 17,
+    "assists": 4,
+    "played": 33
+  },
+  {
+    "name": "D. Musovski",
+    "team": "Seattle Sounders",
+    "team_id": 1595,
+    "goals": 16,
+    "assists": 5,
+    "played": 33
+  },
+  {
+    "name": "M. Ojeda",
+    "team": "Orlando City SC",
+    "team_id": 1598,
+    "goals": 16,
+    "assists": 9,
+    "played": 34
+  },
+  {
+    "name": "D. Rossi",
+    "team": "Columbus Crew",
+    "team_id": 1613,
+    "goals": 16,
+    "assists": 4,
+    "played": 33
+  },
+  {
+    "name": "K. Denkey",
+    "team": "FC Cincinnati",
+    "team_id": 2242,
+    "goals": 16,
+    "assists": 1,
+    "played": 31
+  },
+  {
+    "name": "P. Zinckernagel",
+    "team": "Chicago Fire",
+    "team_id": 1607,
+    "goals": 15,
+    "assists": 13,
+    "played": 34
+  },
+  {
+    "name": "Josef Martínez",
+    "team": "San Jose Earthquakes",
+    "team_id": 1596,
+    "goals": 14,
+    "assists": 2,
+    "played": 30
+  }
+]

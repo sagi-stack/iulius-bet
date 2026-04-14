@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-12-06T14:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern München",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "date": "2025-08-16T18:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern München",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2025-02-28T19:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern München",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2024-10-19T16:30:00+00:00",
+    "home": "Bayern München",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2024-05-04T13:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2023-12-17T18:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2023-03-04T17:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2022-09-10T13:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2022-05-08T15:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2021-12-14T17:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "date": "2021-03-20T14:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2020-11-28T14:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2019-01-27T14:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2018-09-01T16:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "date": "2018-05-12T13:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2017-12-16T14:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2016-04-09T13:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2015-11-07T14:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2015-02-07T14:30:00+00:00",
+    "home": "VfB Stuttgart",
+    "away": "Bayern Munich",
+    "home_id": 172,
+    "away_id": 157,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2014-09-13T13:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "VfB Stuttgart",
+    "home_id": 157,
+    "away_id": 172,
+    "home_score": 2,
+    "away_score": 0
+  }
+]

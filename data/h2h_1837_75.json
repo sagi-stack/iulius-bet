@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2025-10-18T14:00:00+00:00",
+    "home": "Stoke City",
+    "away": "Wrexham",
+    "home_id": 75,
+    "away_id": 1837,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2015-01-04T15:00:00+00:00",
+    "home": "Stoke City",
+    "away": "Wrexham",
+    "home_id": 75,
+    "away_id": 1837,
+    "home_score": 3,
+    "away_score": 1
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "date": "2025-10-04T17:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2025-02-07T18:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2025-01-15T17:30:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2024-12-15T16:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2024-05-04T19:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2023-12-17T12:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2023-05-03T19:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2022-10-16T13:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2022-04-10T13:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2022-01-28T20:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2021-09-22T17:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2021-07-24T09:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2021-07-24T09:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2021-05-02T13:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2020-10-18T13:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2020-05-09T18:00:00+00:00",
+    "home": "Nantes",
+    "away": "Stade Brestois 29",
+    "home_id": 83,
+    "away_id": 106,
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "2019-11-23T19:00:00+00:00",
+    "home": "Stade Brestois 29",
+    "away": "Nantes",
+    "home_id": 106,
+    "away_id": 83,
+    "home_score": 1,
+    "away_score": 1
+  }
+]

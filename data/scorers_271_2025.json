@@ -1,0 +1,162 @@
+[
+  {
+    "name": "A. Matko",
+    "team": "Ujpest",
+    "team_id": 2255,
+    "goals": 12,
+    "assists": 1,
+    "played": 28
+  },
+  {
+    "name": "D. Lukács",
+    "team": "Puskas Academy",
+    "team_id": 2391,
+    "goals": 11,
+    "assists": 1,
+    "played": 27
+  },
+  {
+    "name": "D. Bárány",
+    "team": "Debreceni VSC",
+    "team_id": 2392,
+    "goals": 11,
+    "assists": 0,
+    "played": 25
+  },
+  {
+    "name": "J. Hahn",
+    "team": "Paks",
+    "team_id": 2390,
+    "goals": 8,
+    "assists": 0,
+    "played": 23
+  },
+  {
+    "name": "A. Skribek",
+    "team": "Zalaegerszegi TE",
+    "team_id": 2414,
+    "goals": 7,
+    "assists": 5,
+    "played": 25
+  },
+  {
+    "name": "Adin Molnar",
+    "team": "MTK Budapest",
+    "team_id": 2396,
+    "goals": 7,
+    "assists": 3,
+    "played": 1
+  },
+  {
+    "name": "João Victor",
+    "team": "Zalaegerszegi TE",
+    "team_id": 2414,
+    "goals": 6,
+    "assists": 0,
+    "played": 29
+  },
+  {
+    "name": "B. Varga",
+    "team": "Ferencvarosi TC",
+    "team_id": 651,
+    "goals": 6,
+    "assists": 0,
+    "played": 17
+  },
+  {
+    "name": "Z. Nagy",
+    "team": "Puskas Academy",
+    "team_id": 2391,
+    "goals": 6,
+    "assists": 0,
+    "played": 22
+  },
+  {
+    "name": "Á. Zalán",
+    "team": "MTK Budapest",
+    "team_id": 2396,
+    "goals": 5,
+    "assists": 2,
+    "played": 25
+  },
+  {
+    "name": "D. Böde",
+    "team": "Paks",
+    "team_id": 2390,
+    "goals": 5,
+    "assists": 1,
+    "played": 19
+  },
+  {
+    "name": "B. Bíró",
+    "team": "Kisvarda FC",
+    "team_id": 2394,
+    "goals": 5,
+    "assists": 1,
+    "played": 0
+  },
+  {
+    "name": "Zalán Márk Kerezsi",
+    "team": "MTK Budapest",
+    "team_id": 2396,
+    "goals": 5,
+    "assists": 0,
+    "played": 23
+  },
+  {
+    "name": "B. Edomwonyi",
+    "team": "Nyiregyhaza",
+    "team_id": 2403,
+    "goals": 5,
+    "assists": 0,
+    "played": 14
+  },
+  {
+    "name": "Z. Gruber",
+    "team": "Ferencvarosi TC",
+    "team_id": 651,
+    "goals": 5,
+    "assists": 3,
+    "played": 24
+  },
+  {
+    "name": "E. Acolatse",
+    "team": "Diosgyori VTK",
+    "team_id": 2393,
+    "goals": 5,
+    "assists": 3,
+    "played": 18
+  },
+  {
+    "name": "F. Kovačević",
+    "team": "Ferencvarosi TC",
+    "team_id": 651,
+    "goals": 4,
+    "assists": 0,
+    "played": 9
+  },
+  {
+    "name": "K. Horváth",
+    "team": "Ujpest",
+    "team_id": 2255,
+    "goals": 4,
+    "assists": 4,
+    "played": 25
+  },
+  {
+    "name": "G. Gyurkits",
+    "team": "Paks",
+    "team_id": 2390,
+    "goals": 4,
+    "assists": 2,
+    "played": 23
+  },
+  {
+    "name": "T. Yordanov",
+    "team": "Kisvarda FC",
+    "team_id": 2394,
+    "goals": 4,
+    "assists": 1,
+    "played": 18
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-11-09T19:45:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "date": "2025-02-23T19:45:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "date": "2024-12-15T19:45:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2024-05-25T19:00:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2024-04-21T19:00:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2023-09-03T18:45:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "date": "2023-04-02T18:45:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2022-09-18T18:45:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2022-01-09T19:45:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2021-09-19T18:45:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2021-03-21T20:00:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "date": "2020-12-13T20:00:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2020-07-31T19:10:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2020-03-04T20:10:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "date": "2020-02-09T20:05:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "date": "2019-09-22T19:00:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2019-02-03T20:00:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2018-10-07T19:00:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "date": "2018-01-21T20:00:00+00:00",
+    "home": "Lyon",
+    "away": "Paris Saint Germain",
+    "home_id": 80,
+    "away_id": 85,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2017-09-17T19:00:00+00:00",
+    "home": "Paris Saint Germain",
+    "away": "Lyon",
+    "home_id": 85,
+    "away_id": 80,
+    "home_score": 2,
+    "away_score": 0
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-04-09T19:00:00+00:00",
+    "home": "Bologna",
+    "away": "Aston Villa",
+    "home_id": 500,
+    "away_id": 66,
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "date": "2025-09-25T19:00:00+00:00",
+    "home": "Aston Villa",
+    "away": "Bologna",
+    "home_id": 66,
+    "away_id": 500,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2024-10-22T19:00:00+00:00",
+    "home": "Aston Villa",
+    "away": "Bologna",
+    "home_id": 66,
+    "away_id": 500,
+    "home_score": 2,
+    "away_score": 0
+  }
+]

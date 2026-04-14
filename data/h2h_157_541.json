@@ -1,0 +1,119 @@
+[
+  {
+    "date": "2026-04-07T19:00:00+00:00",
+    "home": "Real Madrid",
+    "away": "Bayern München",
+    "home_id": 541,
+    "away_id": 157,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2024-05-08T19:00:00+00:00",
+    "home": "Real Madrid",
+    "away": "Bayern Munich",
+    "home_id": 541,
+    "away_id": 157,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2024-04-30T19:00:00+00:00",
+    "home": "Bayern Munich",
+    "away": "Real Madrid",
+    "home_id": 157,
+    "away_id": 541,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2019-07-21T00:06:00+00:00",
+    "home": "Bayern Munich",
+    "away": "Real Madrid",
+    "home_id": 157,
+    "away_id": 541,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2018-05-01T18:45:00+00:00",
+    "home": "Real Madrid",
+    "away": "Bayern Munich",
+    "home_id": 541,
+    "away_id": 157,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2018-04-25T18:45:00+00:00",
+    "home": "Bayern Munich",
+    "away": "Real Madrid",
+    "home_id": 157,
+    "away_id": 541,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2017-04-18T18:45:00+00:00",
+    "home": "Real Madrid",
+    "away": "Bayern Munich",
+    "home_id": 541,
+    "away_id": 157,
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "date": "2017-04-12T18:45:00+00:00",
+    "home": "Bayern Munich",
+    "away": "Real Madrid",
+    "home_id": 157,
+    "away_id": 541,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2016-08-03T23:30:00+00:00",
+    "home": "Bayern Munich",
+    "away": "Real Madrid",
+    "home_id": 157,
+    "away_id": 541,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2014-04-29T18:45:00+00:00",
+    "home": "Bayern Munich",
+    "away": "Real Madrid",
+    "home_id": 157,
+    "away_id": 541,
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "date": "2014-04-23T18:45:00+00:00",
+    "home": "Real Madrid",
+    "away": "Bayern Munich",
+    "home_id": 541,
+    "away_id": 157,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2012-04-25T18:45:00+00:00",
+    "home": "Real Madrid",
+    "away": "Bayern Munich",
+    "home_id": 541,
+    "away_id": 157,
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "date": "2012-04-17T18:45:00+00:00",
+    "home": "Bayern Munich",
+    "away": "Real Madrid",
+    "home_id": 157,
+    "away_id": 541,
+    "home_score": 2,
+    "away_score": 1
+  }
+]

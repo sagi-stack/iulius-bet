@@ -1,0 +1,173 @@
+[
+  {
+    "date": "2025-10-18T11:30:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2025-02-01T15:00:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2024-09-21T11:30:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2024-01-20T15:00:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2023-12-26T13:00:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2023-02-11T15:00:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2022-09-14T18:45:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2022-02-15T19:45:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2021-08-07T14:00:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2021-03-17T19:00:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "date": "2020-12-08T19:45:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2020-07-18T14:00:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 4,
+    "away_score": 3
+  },
+  {
+    "date": "2019-09-21T14:00:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2019-04-10T18:45:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2018-09-19T18:45:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2017-12-29T19:45:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2017-09-12T18:45:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2014-04-26T14:00:00+00:00",
+    "home": "QPR",
+    "away": "Millwall",
+    "home_id": 72,
+    "away_id": 58,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2013-10-19T14:00:00+00:00",
+    "home": "Millwall",
+    "away": "QPR",
+    "home_id": 58,
+    "away_id": 72,
+    "home_score": 2,
+    "away_score": 2
+  }
+]

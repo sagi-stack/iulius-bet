@@ -1,0 +1,162 @@
+[
+  {
+    "name": "J. Panichelli",
+    "team": "Strasbourg",
+    "team_id": 95,
+    "goals": 16,
+    "assists": 1,
+    "played": 27
+  },
+  {
+    "name": "E. Lepaul",
+    "team": "Rennes",
+    "team_id": 94,
+    "goals": 15,
+    "assists": 3,
+    "played": 27
+  },
+  {
+    "name": "M. Greenwood",
+    "team": "Marseille",
+    "team_id": 81,
+    "goals": 15,
+    "assists": 6,
+    "played": 27
+  },
+  {
+    "name": "O. Édouard",
+    "team": "Lens",
+    "team_id": 116,
+    "goals": 12,
+    "assists": 3,
+    "played": 24
+  },
+  {
+    "name": "P. Šulc",
+    "team": "Lyon",
+    "team_id": 80,
+    "goals": 11,
+    "assists": 3,
+    "played": 23
+  },
+  {
+    "name": "F. Balogun",
+    "team": "Monaco",
+    "team_id": 91,
+    "goals": 11,
+    "assists": 4,
+    "played": 25
+  },
+  {
+    "name": "B. Barcola",
+    "team": "Paris Saint Germain",
+    "team_id": 85,
+    "goals": 10,
+    "assists": 1,
+    "played": 22
+  },
+  {
+    "name": "W. Saïd",
+    "team": "Lens",
+    "team_id": 116,
+    "goals": 10,
+    "assists": 2,
+    "played": 24
+  },
+  {
+    "name": "O. Dembélé",
+    "team": "Paris Saint Germain",
+    "team_id": 85,
+    "goals": 10,
+    "assists": 5,
+    "played": 17
+  },
+  {
+    "name": "P. Aubameyang",
+    "team": "Marseille",
+    "team_id": 81,
+    "goals": 9,
+    "assists": 5,
+    "played": 26
+  },
+  {
+    "name": "F. Thauvin",
+    "team": "Lens",
+    "team_id": 116,
+    "goals": 9,
+    "assists": 5,
+    "played": 28
+  },
+  {
+    "name": "Y. Gboho",
+    "team": "Toulouse",
+    "team_id": 96,
+    "goals": 8,
+    "assists": 2,
+    "played": 28
+  },
+  {
+    "name": "M. Godo",
+    "team": "Strasbourg",
+    "team_id": 95,
+    "goals": 8,
+    "assists": 1,
+    "played": 23
+  },
+  {
+    "name": "P. Pagis",
+    "team": "Lorient",
+    "team_id": 97,
+    "goals": 8,
+    "assists": 2,
+    "played": 23
+  },
+  {
+    "name": "C. Tolisso",
+    "team": "Lyon",
+    "team_id": 80,
+    "goals": 8,
+    "assists": 1,
+    "played": 26
+  },
+  {
+    "name": "B. Dieng",
+    "team": "Lorient",
+    "team_id": 97,
+    "goals": 8,
+    "assists": 1,
+    "played": 17
+  },
+  {
+    "name": "I. Kebbal",
+    "team": "Paris FC",
+    "team_id": 114,
+    "goals": 8,
+    "assists": 4,
+    "played": 24
+  },
+  {
+    "name": "Ansu Fati",
+    "team": "Monaco",
+    "team_id": 91,
+    "goals": 8,
+    "assists": 0,
+    "played": 20
+  },
+  {
+    "name": "R. Del Castillo",
+    "team": "Stade Brestois 29",
+    "team_id": 106,
+    "goals": 8,
+    "assists": 2,
+    "played": 26
+  },
+  {
+    "name": "L. Ajorque",
+    "team": "Stade Brestois 29",
+    "team_id": 106,
+    "goals": 7,
+    "assists": 8,
+    "played": 26
+  }
+]

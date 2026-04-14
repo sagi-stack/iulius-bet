@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-01-03T14:00:00+00:00",
+    "home": "Genoa",
+    "away": "Pisa",
+    "home_id": 495,
+    "away_id": 801,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-01-28T15:15:00+00:00",
+    "home": "Genoa",
+    "away": "Pisa",
+    "home_id": 495,
+    "away_id": 801,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2022-08-28T18:45:00+00:00",
+    "home": "Pisa",
+    "away": "Genoa",
+    "home_id": 801,
+    "away_id": 495,
+    "home_score": 0,
+    "away_score": 1
+  }
+]

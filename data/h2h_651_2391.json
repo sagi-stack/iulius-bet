@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-11-30T18:30:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2025-08-16T18:15:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2025-05-03T17:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2025-02-09T17:00:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2024-09-29T16:00:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2024-03-17T13:45:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-11-26T16:00:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-11-01T19:00:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 4,
+    "away_score": 3
+  },
+  {
+    "date": "2023-08-13T16:45:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2023-03-12T17:15:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2022-10-22T16:30:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "date": "2022-07-31T18:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2022-04-03T15:00:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2022-01-27T17:30:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2021-12-04T14:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2021-04-10T17:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2021-01-23T16:00:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2020-10-04T15:30:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2020-05-31T19:05:00+00:00",
+    "home": "Puskas Academy",
+    "away": "Ferencvarosi TC",
+    "home_id": 2391,
+    "away_id": 651,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2019-12-08T14:45:00+00:00",
+    "home": "Ferencvarosi TC",
+    "away": "Puskas Academy",
+    "home_id": 651,
+    "away_id": 2391,
+    "home_score": 2,
+    "away_score": 2
+  }
+]

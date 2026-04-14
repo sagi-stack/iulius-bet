@@ -1,0 +1,162 @@
+[
+  {
+    "name": "H. Kane",
+    "team": "Bayern München",
+    "team_id": 157,
+    "goals": 31,
+    "assists": 5,
+    "played": 26
+  },
+  {
+    "name": "D. Undav",
+    "team": "VfB Stuttgart",
+    "team_id": 172,
+    "goals": 18,
+    "assists": 6,
+    "played": 25
+  },
+  {
+    "name": "L. Díaz",
+    "team": "Bayern München",
+    "team_id": 157,
+    "goals": 15,
+    "assists": 11,
+    "played": 27
+  },
+  {
+    "name": "S. Guirassy",
+    "team": "Borussia Dortmund",
+    "team_id": 165,
+    "goals": 13,
+    "assists": 1,
+    "played": 28
+  },
+  {
+    "name": "M. Olise",
+    "team": "Bayern München",
+    "team_id": 157,
+    "goals": 12,
+    "assists": 18,
+    "played": 27
+  },
+  {
+    "name": "C. Baumgartner",
+    "team": "RB Leipzig",
+    "team_id": 173,
+    "goals": 12,
+    "assists": 7,
+    "played": 28
+  },
+  {
+    "name": "Y. Diomande",
+    "team": "RB Leipzig",
+    "team_id": 173,
+    "goals": 11,
+    "assists": 6,
+    "played": 28
+  },
+  {
+    "name": "H. Tabaković",
+    "team": "Borussia Mönchengladbach",
+    "team_id": 163,
+    "goals": 11,
+    "assists": 2,
+    "played": 28
+  },
+  {
+    "name": "S. El Mala",
+    "team": "1. FC Köln",
+    "team_id": 192,
+    "goals": 11,
+    "assists": 3,
+    "played": 29
+  },
+  {
+    "name": "J. Burkardt",
+    "team": "Eintracht Frankfurt",
+    "team_id": 169,
+    "goals": 10,
+    "assists": 0,
+    "played": 17
+  },
+  {
+    "name": "A. Kramarić",
+    "team": "1899 Hoffenheim",
+    "team_id": 167,
+    "goals": 10,
+    "assists": 5,
+    "played": 29
+  },
+  {
+    "name": "P. Schick",
+    "team": "Bayer Leverkusen",
+    "team_id": 168,
+    "goals": 10,
+    "assists": 3,
+    "played": 23
+  },
+  {
+    "name": "N. Amiri",
+    "team": "FSV Mainz 05",
+    "team_id": 164,
+    "goals": 10,
+    "assists": 2,
+    "played": 21
+  },
+  {
+    "name": "F. Asllani",
+    "team": "1899 Hoffenheim",
+    "team_id": 167,
+    "goals": 9,
+    "assists": 6,
+    "played": 28
+  },
+  {
+    "name": "E. Demirović",
+    "team": "VfB Stuttgart",
+    "team_id": 172,
+    "goals": 9,
+    "assists": 3,
+    "played": 20
+  },
+  {
+    "name": "S. Gnabry",
+    "team": "Bayern München",
+    "team_id": 157,
+    "goals": 8,
+    "assists": 6,
+    "played": 21
+  },
+  {
+    "name": "M. Beier",
+    "team": "Borussia Dortmund",
+    "team_id": 165,
+    "goals": 8,
+    "assists": 4,
+    "played": 27
+  },
+  {
+    "name": "Rômulo",
+    "team": "RB Leipzig",
+    "team_id": 173,
+    "goals": 8,
+    "assists": 4,
+    "played": 25
+  },
+  {
+    "name": "M. Amoura",
+    "team": "VfL Wolfsburg",
+    "team_id": 161,
+    "goals": 8,
+    "assists": 3,
+    "played": 26
+  },
+  {
+    "name": "I. Matanović",
+    "team": "SC Freiburg",
+    "team_id": 160,
+    "goals": 8,
+    "assists": 1,
+    "played": 26
+  }
+]

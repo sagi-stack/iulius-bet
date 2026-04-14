@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2025-09-27T14:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2022-12-29T19:45:00+00:00",
+    "home": "Portsmouth",
+    "away": "Ipswich",
+    "home_id": 1355,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2022-11-22T19:45:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2022-10-01T14:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "date": "2022-03-12T15:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2021-10-19T18:45:00+00:00",
+    "home": "Portsmouth",
+    "away": "Ipswich",
+    "home_id": 1355,
+    "away_id": 57,
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "date": "2021-03-20T13:00:00+00:00",
+    "home": "Portsmouth",
+    "away": "Ipswich",
+    "home_id": 1355,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2020-12-12T15:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2020-11-07T15:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "date": "2020-03-21T15:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "2019-12-21T15:00:00+00:00",
+    "home": "Portsmouth",
+    "away": "Ipswich",
+    "home_id": 1355,
+    "away_id": 57,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2016-01-19T19:45:00+00:00",
+    "home": "Portsmouth",
+    "away": "Ipswich",
+    "home_id": 1355,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2016-01-09T15:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2012-02-14T19:45:00+00:00",
+    "home": "Portsmouth",
+    "away": "Ipswich",
+    "home_id": 1355,
+    "away_id": 57,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2011-10-18T18:45:00+00:00",
+    "home": "Ipswich",
+    "away": "Portsmouth",
+    "home_id": 57,
+    "away_id": 1355,
+    "home_score": 1,
+    "away_score": 0
+  }
+]

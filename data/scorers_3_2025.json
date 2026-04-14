@@ -1,0 +1,162 @@
+[
+  {
+    "name": "M. Mouandilmadji",
+    "team": "Samsunspor",
+    "team_id": 3603,
+    "goals": 11,
+    "assists": 1,
+    "played": 26
+  },
+  {
+    "name": "Igor Jesus",
+    "team": "Nottingham Forest",
+    "team_id": 65,
+    "goals": 7,
+    "assists": 1,
+    "played": 10
+  },
+  {
+    "name": "P. Stanić",
+    "team": "Ludogorets",
+    "team_id": 566,
+    "goals": 7,
+    "assists": 1,
+    "played": 11
+  },
+  {
+    "name": "K. Aktürkoğlu",
+    "team": "Fenerbahçe",
+    "team_id": 611,
+    "goals": 6,
+    "assists": 1,
+    "played": 9
+  },
+  {
+    "name": "Antony",
+    "team": "Real Betis",
+    "team_id": 543,
+    "goals": 5,
+    "assists": 3,
+    "played": 9
+  },
+  {
+    "name": "D. Beljo",
+    "team": "Dinamo Zagreb",
+    "team_id": 620,
+    "goals": 5,
+    "assists": 1,
+    "played": 8
+  },
+  {
+    "name": "B. El Khannouss",
+    "team": "VfB Stuttgart",
+    "team_id": 172,
+    "goals": 5,
+    "assists": 0,
+    "played": 11
+  },
+  {
+    "name": "F. Bernardeschi",
+    "team": "Bologna",
+    "team_id": 500,
+    "goals": 5,
+    "assists": 0,
+    "played": 12
+  },
+  {
+    "name": "J. Rowe",
+    "team": "Bologna",
+    "team_id": 500,
+    "goals": 4,
+    "assists": 2,
+    "played": 11
+  },
+  {
+    "name": "W. Swedberg",
+    "team": "Celta Vigo",
+    "team_id": 538,
+    "goals": 4,
+    "assists": 2,
+    "played": 9
+  },
+  {
+    "name": "A. Zaroury",
+    "team": "Panathinaikos",
+    "team_id": 617,
+    "goals": 4,
+    "assists": 1,
+    "played": 12
+  },
+  {
+    "name": "B. Nygren",
+    "team": "Celtic",
+    "team_id": 247,
+    "goals": 4,
+    "assists": 1,
+    "played": 10
+  },
+  {
+    "name": "Z. El Ouahdi",
+    "team": "Genk",
+    "team_id": 742,
+    "goals": 4,
+    "assists": 1,
+    "played": 10
+  },
+  {
+    "name": "M. Erlić",
+    "team": "FC Midtjylland",
+    "team_id": 397,
+    "goals": 4,
+    "assists": 1,
+    "played": 9
+  },
+  {
+    "name": "Talisca",
+    "team": "Fenerbahçe",
+    "team_id": 611,
+    "goals": 4,
+    "assists": 1,
+    "played": 8
+  },
+  {
+    "name": "H. Igamane",
+    "team": "Lille",
+    "team_id": 79,
+    "goals": 4,
+    "assists": 1,
+    "played": 5
+  },
+  {
+    "name": "K. Świderski",
+    "team": "Panathinaikos",
+    "team_id": 617,
+    "goals": 4,
+    "assists": 0,
+    "played": 13
+  },
+  {
+    "name": "C. Tolisso",
+    "team": "Lyon",
+    "team_id": 80,
+    "goals": 4,
+    "assists": 0,
+    "played": 7
+  },
+  {
+    "name": "B. Varga",
+    "team": "Ferencvarosi TC",
+    "team_id": 651,
+    "goals": 4,
+    "assists": 0,
+    "played": 6
+  },
+  {
+    "name": "V. Grifo",
+    "team": "SC Freiburg",
+    "team_id": 160,
+    "goals": 4,
+    "assists": 2,
+    "played": 11
+  }
+]

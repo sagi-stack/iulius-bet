@@ -1,0 +1,54 @@
+[
+  {
+    "position": 1,
+    "team_id": 80,
+    "team": "Lyon",
+    "points": 16,
+    "won": 5,
+    "draw": 1,
+    "lost": 0,
+    "gf": 16,
+    "ga": 5,
+    "gd": 11,
+    "form": "DWWWW"
+  },
+  {
+    "position": 2,
+    "team_id": 257,
+    "team": "Rangers",
+    "points": 8,
+    "won": 2,
+    "draw": 2,
+    "lost": 2,
+    "gf": 6,
+    "ga": 5,
+    "gd": 1,
+    "form": "DWDWL"
+  },
+  {
+    "position": 3,
+    "team_id": 628,
+    "team": "Sparta Praha",
+    "points": 7,
+    "won": 2,
+    "draw": 1,
+    "lost": 3,
+    "gf": 6,
+    "ga": 9,
+    "gd": -3,
+    "form": "WLLLW"
+  },
+  {
+    "position": 4,
+    "team_id": 407,
+    "team": "Brondby",
+    "points": 2,
+    "won": 0,
+    "draw": 2,
+    "lost": 4,
+    "gf": 2,
+    "ga": 11,
+    "gd": -9,
+    "form": "LLDLL"
+  }
+]

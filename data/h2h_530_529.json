@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-04-08T19:00:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2026-04-04T19:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2026-03-03T20:00:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "2026-02-12T20:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2025-12-02T20:00:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2025-04-02T19:30:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2025-03-16T20:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "date": "2025-02-25T20:30:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 4,
+    "away_score": 4
+  },
+  {
+    "date": "2024-12-21T20:00:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "date": "2024-03-17T20:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "date": "2023-12-03T20:00:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2023-04-23T14:15:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2023-01-08T20:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "2022-02-06T15:15:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "date": "2021-10-02T19:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2021-05-08T14:15:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2020-11-21T20:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "2020-06-30T20:00:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2020-01-09T19:00:00+00:00",
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "home_id": 529,
+    "away_id": 530,
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "date": "2019-12-01T20:00:00+00:00",
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "home_id": 530,
+    "away_id": 529,
+    "home_score": 0,
+    "away_score": 1
+  }
+]

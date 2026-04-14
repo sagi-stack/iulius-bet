@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Kaio Jorge",
+    "team": "Cruzeiro",
+    "team_id": 135,
+    "goals": 21,
+    "assists": 8,
+    "played": 33
+  },
+  {
+    "name": "G. de Arrascaeta",
+    "team": "Flamengo",
+    "team_id": 127,
+    "goals": 18,
+    "assists": 14,
+    "played": 33
+  },
+  {
+    "name": "Vitor Roque",
+    "team": "Palmeiras",
+    "team_id": 121,
+    "goals": 16,
+    "assists": 3,
+    "played": 33
+  },
+  {
+    "name": "Rayan",
+    "team": "Vasco DA Gama",
+    "team_id": 133,
+    "goals": 14,
+    "assists": 1,
+    "played": 34
+  },
+  {
+    "name": "P. Vegetti",
+    "team": "Vasco DA Gama",
+    "team_id": 133,
+    "goals": 14,
+    "assists": 1,
+    "played": 35
+  },
+  {
+    "name": "Reinaldo",
+    "team": "Mirassol",
+    "team_id": 7848,
+    "goals": 13,
+    "assists": 6,
+    "played": 34
+  },
+  {
+    "name": "Pedro",
+    "team": "Flamengo",
+    "team_id": 127,
+    "goals": 12,
+    "assists": 6,
+    "played": 21
+  },
+  {
+    "name": "J. López",
+    "team": "Palmeiras",
+    "team_id": 121,
+    "goals": 12,
+    "assists": 2,
+    "played": 33
+  },
+  {
+    "name": "Carlos Vinícius",
+    "team": "Gremio",
+    "team_id": 130,
+    "goals": 12,
+    "assists": 1,
+    "played": 14
+  },
+  {
+    "name": "Pedro Raul",
+    "team": "Ceara",
+    "team_id": 129,
+    "goals": 11,
+    "assists": 0,
+    "played": 34
+  },
+  {
+    "name": "Willian José",
+    "team": "Bahia",
+    "team_id": 118,
+    "goals": 11,
+    "assists": 6,
+    "played": 33
+  },
+  {
+    "name": "Alan Patrick",
+    "team": "Internacional",
+    "team_id": 119,
+    "goals": 11,
+    "assists": 7,
+    "played": 30
+  },
+  {
+    "name": "Yuri Alberto",
+    "team": "Corinthians",
+    "team_id": 131,
+    "goals": 10,
+    "assists": 2,
+    "played": 26
+  },
+  {
+    "name": "Jhon Jhon",
+    "team": "RB Bragantino",
+    "team_id": 794,
+    "goals": 10,
+    "assists": 7,
+    "played": 34
+  },
+  {
+    "name": "Luciano",
+    "team": "Sao Paulo",
+    "team_id": 126,
+    "goals": 9,
+    "assists": 4,
+    "played": 32
+  },
+  {
+    "name": "Á. Barreal",
+    "team": "Santos",
+    "team_id": 128,
+    "goals": 9,
+    "assists": 1,
+    "played": 34
+  },
+  {
+    "name": "Renato Kayzer",
+    "team": "Vitoria",
+    "team_id": 136,
+    "goals": 9,
+    "assists": 0,
+    "played": 30
+  },
+  {
+    "name": "Gabriel Taliari",
+    "team": "Juventude",
+    "team_id": 152,
+    "goals": 8,
+    "assists": 4,
+    "played": 34
+  },
+  {
+    "name": "Hulk",
+    "team": "Atletico-MG",
+    "team_id": 1062,
+    "goals": 8,
+    "assists": 6,
+    "played": 33
+  },
+  {
+    "name": "Bruno Henrique",
+    "team": "Flamengo",
+    "team_id": 127,
+    "goals": 8,
+    "assists": 0,
+    "played": 32
+  }
+]

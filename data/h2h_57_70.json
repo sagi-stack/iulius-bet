@@ -1,0 +1,155 @@
+[
+  {
+    "date": "2025-10-17T19:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "date": "2024-04-13T14:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2023-12-09T15:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2018-12-29T15:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2018-10-02T18:45:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2018-05-06T11:30:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "date": "2017-12-09T15:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2016-04-23T14:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "2015-12-04T19:45:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "date": "2015-03-14T12:15:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "2014-12-20T15:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2014-03-08T15:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2013-09-14T14:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "2013-02-02T15:00:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "date": "2012-09-15T14:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "2012-03-27T18:45:00+00:00",
+    "home": "Ipswich",
+    "away": "Middlesbrough",
+    "home_id": 57,
+    "away_id": 70,
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "date": "2011-09-24T14:00:00+00:00",
+    "home": "Middlesbrough",
+    "away": "Ipswich",
+    "home_id": 70,
+    "away_id": 57,
+    "home_score": 0,
+    "away_score": 0
+  }
+]
